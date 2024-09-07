@@ -14,6 +14,8 @@ To run and for developmentyou need python 3.11 or above[^1] and the arduino IDE
 
 The physical materials are a 12v fan, an arduino, a relay and a power source for the fan
 
+open `weather-checker.py` and change latitude longitude temperature_threshold and api_key accordingly 
+
 in terminal, navigate to the repository folder and run 
 
 `python -m pip install -r /requirements.txt`
